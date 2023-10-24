@@ -1,0 +1,7 @@
+.product {
+    background-color: rgb(125, 190, 233);
+}
+.product h2, .product p{
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+}
